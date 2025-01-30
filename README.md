@@ -1,11 +1,11 @@
-# Bright Data's Italy Proxies
+# Bright Data's South Korea Proxies
 
 [![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/locations/it) 
 
 ## Overview
-Experience seamless scraping with Bright Data's [Italy proxies](https://brightdata.com/locations/it), designed to provide precise targeting, unmatched stability, and rapid response times. Start scraping websites from Italy and don't get blocked again.
+Experience seamless scraping with Bright Data's [South Korea proxies](https://brightdata.com/locations/it), designed to provide precise targeting, unmatched stability, and rapid response times. Start scraping websites from South Korea and don't get blocked again.
 
-- **1.5M Italy proxy IPs**
+- **1.5M South Korea proxy IPs**
 - **Sticky and rotating sessions**
 - **99.95% success rate**
 - **HTTP(S) & SOCKS5 support**
@@ -17,7 +17,7 @@ Experience seamless scraping with Bright Data's [Italy proxies](https://brightda
 - **Ethically Sourced**: All proxies are sourced with explicit user consent.
 - **Unlimited Concurrent Sessions**: Scale your operations without limitations.
 
-## Types of Italy Proxies
+## Types of South Korea Proxies
 
 **[**Residential proxies**](https://brightdata.com/proxy-types/residential-proxies)** - Enjoy effortless scraping with the fastest residential proxies in the industry. Take advantage of accurate targeting and unparalleled reliability.
   
@@ -41,13 +41,13 @@ Experience seamless scraping with Bright Data's [Italy proxies](https://brightda
 
 Sign up and receive a dollar-for-dollar match on your first deposit, up to $500!
 
-## Getting Started with Bright Data's Italy proxies
+## Getting Started with Bright Data's South Korea proxies
 1. **Start Free Trial**: No credit card required.
 2. **Integration**: Use our APIs or Control Panel to manage IPs and configurations.
 3. **Supported Languages**: Quick start examples provided for Python, Java, C#, Node.js, and Shell.
 
 ## Integrations
-Our Italy proxies integrate with popular tools and frameworks, including:
+Our South Korea proxies integrate with popular tools and frameworks, including:
 
 - [**Puppeteer**](https://brightdata.com/integration/puppeteer)
 - [**Selenium**](https://brightdata.com/integration/selenium)
@@ -57,7 +57,7 @@ Our Italy proxies integrate with popular tools and frameworks, including:
 - [**All proxy integrations**](https://brightdata.com/integration)
 
 ## Popular Use Cases
-Explore how businesses leverage Italy proxies:
+Explore how businesses leverage South Korea proxies:
 
 - [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track pricing and reviews.
 - [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends.
@@ -67,11 +67,11 @@ Explore how businesses leverage Italy proxies:
 
 ## FAQ
 
-### What is an Italy proxy server?
-An Italy proxy server is a server based in Italy that serves as an intermediary between your device and the internet. It provides anonymity, helps bypass restrictions and blocks, enables web content scraping, and enforces content filtering policies.
+### What is an South Korea proxy server?
+An South Korea proxy server is a server based in South Korea that serves as an intermediary between your device and the internet. It provides anonymity, helps bypass restrictions and blocks, enables web content scraping, and enforces content filtering policies.
 
-### Can I target ZIP codes across Italy?
-Yes, you can choose IPs using Italy zip code level targeting. Bright Data also offers city and state level proxy targeting.
+### Can I target ZIP codes across South Korea?
+Yes, you can choose IPs using South Korea zip code level targeting. Bright Data also offers city and state level proxy targeting.
 
 ### What types of plans are available? 
 Bright Data offers flexible pricing models, including:
@@ -79,7 +79,7 @@ Bright Data offers flexible pricing models, including:
 - **Pay-As-You-Go**: Fixed rate per GB.
 - **Subscription Plans**: Monthly, yearly, and custom options.
 
-### Are Bright Data's Italy Proxies compliant and safe to use?
+### Are Bright Data's South Korea Proxies compliant and safe to use?
 Bright Data’s proxies are ethically sourced, and we comply with all relevant data protection laws, including GDPR and CCPA.
 
 ### Is there dedicated support available?
